@@ -1,4 +1,5 @@
 key = [6,9,4,2,0]
+print("Current key is " + str(key))
 msg = input("Enter a message to encrypt: ")
 encmsg = ""
 
