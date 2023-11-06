@@ -4,4 +4,4 @@ If you want to change the key edit it to the code. Remember that the key is a VE
 If you don't want that anyone sees you'r private messages send the code to you'r friend and you can message in peace knowing that even the government doesn't see you'r messages.
 
 
-EDIT: don't use it for crimes (:
+EDIT: don't use it for crimes :)
